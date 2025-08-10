@@ -1,0 +1,128 @@
+[
+  {
+    "group": "skm",
+    "name": "dashboard-api",
+    "host": "128.199.75.25",
+    "port": "22",
+    "username": "root"
+  },
+  {
+    "group": "skm",
+    "name": "cloud-storage",
+    "host": "128.199.151.146",
+    "port": "22",
+    "username": "root"
+  },
+  {
+    "group": "skm",
+    "name": "elasticsearch",
+    "host": "128.199.193.141",
+    "port": "22",
+    "username": "root"
+  },
+  {
+    "group": "skm",
+    "name": "crawler-media-online-1",
+    "host": "159.223.61.140",
+    "port": "22",
+    "username": "root"
+  },
+  {
+    "group": "skm",
+    "name": "dashboard-input",
+    "host": "10.104.0.6",
+    "port": "22",
+    "username": "root"
+  },
+  {
+    "group": "skm",
+    "name": "kafka-producer",
+    "host": "178.128.92.246",
+    "port": "22",
+    "username": "root"
+  },
+  {
+    "group": "skm",
+    "name": "kafka",
+    "host": "178.128.22.10",
+    "port": "22",
+    "username": "root"
+  },
+  {
+    "group": "skm",
+    "name": "kafka-consumer-backtrack-1",
+    "host": "128.199.218.121",
+    "port": "22",
+    "username": "root"
+  },
+  {
+    "group": "skm",
+    "name": "open-vpn",
+    "host": "128.199.92.93",
+    "port": "22",
+    "username": "root"
+  },
+  {
+    "group": "skm",
+    "name": "mysql-client-config",
+    "host": "159.223.78.106",
+    "port": "22",
+    "username": "root"
+  },
+  {
+    "group": "skm",
+    "name": "twitter-crawler",
+    "host": "139.59.224.73",
+    "port": "22",
+    "username": "root"
+  },
+  {
+    "group": "skm",
+    "name": "crawler-media-online-2",
+    "host": "10.104.0.22",
+    "port": "22",
+    "username": "root"
+  },
+  {
+    "group": "skm",
+    "name": "kafka-consumer-backtrack-2",
+    "host": "165.22.245.157",
+    "port": "22",
+    "username": "root"
+  },
+  {
+    "group": "skm",
+    "name": "kafka-consumer-backtrack-3",
+    "host": "159.223.56.51",
+    "port": "22",
+    "username": "root"
+  },
+  {
+    "group": "skm",
+    "name": "kafka-consumer-update",
+    "host": "10.104.0.18",
+    "port": "22",
+    "username": "root"
+  },
+  {
+    "group": "skm",
+    "name": "kafka-consumer-update-2",
+    "host": "10.104.0.19",
+    "port": "22",
+    "username": "root"
+  },
+  {
+    "group": "skm",
+    "name": "crawler-article-3",
+    "host": "10.104.0.30",
+    "port": "22",
+    "username": "root"
+  },
+  {
+    "group": "skm",
+    "name": "crawler-article-2",
+    "host": "10.104.0.20",
+    "port": "22",
+    "username": "root"
+  }
+]
