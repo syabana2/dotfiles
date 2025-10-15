@@ -1,0 +1,28 @@
+# general.import = ["~/.config/alacritty/themes/themes/coolnight.toml"]
+general.import = ["~/.config/alacritty/themes/themes/github_dark.toml"]
+
+[terminal.shell]
+program = "/usr/local/bin/nu"
+
+[env]
+TERM = "xterm-256color"
+
+[window]
+padding.x = 10
+padding.y = 10
+opacity = 0.9
+
+decorations = "Buttonless"
+
+[font]
+normal.family = "Maple Mono NF"
+
+#regular
+size = 24
+
+#for video
+# size = 35.0
+
+# [colors.primary]
+# background = "#1e1e2e"  # Hex color
+# foreground = "#cdd6f4"

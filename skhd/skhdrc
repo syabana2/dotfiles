@@ -1,0 +1,38 @@
+# APPS #
+
+
+# Open Safari
+alt - s : ^open -a Safari --new
+
+# Show date
+alt - d : osascript ~/.config/skhd/applescripts/pop.scpt
+
+# Close notifications
+ralt - n : osascript ~/.config/skhd/applescripts/notifications.scpt
+
+# Notion
+lalt - n : ^open -a Notion
+
+# Alacritty
+lalt - a : ^open -a Ghostty --new
+
+# Open Personal Notes
+ralt - a : ^open -a Ghostty --new --args -e ~/.config/skhd/open-notes.sh
+
+# Open Vivaldi
+alt - v : ^open -a Vivaldi --new
+
+# Open Termius
+alt - t : ^open -a Termius
+
+# Open Beekeeper
+alt - b : ^open -a "Beekeeper Studio"
+
+# Open Redis Insight
+alt - r : ^open -a "Redis Insight"
+
+# Open Mongo Compass
+alt - m : ^open -a "MongoDB Compass"
+
+# Open Postman
+alt - p : ^open -a "Postman"

@@ -1,0 +1,11 @@
+[
+  {
+    "name": "test_db",
+    "driver": "postgres",
+    "host": "localhost",
+    "port": 5432,
+    "user": "myapp_user",
+    "password": "uuhw0xbJbTjgsrAdfvk4jnL4THB+6RY0t10Mzz4ZPi5D1iXyKPwHAyTM",
+    "database": "myapp_db"
+  }
+]

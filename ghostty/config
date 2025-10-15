@@ -1,0 +1,36 @@
+term = xterm-256color
+
+font-family = Maple Mono NF
+font-size = 24
+macos-titlebar-proxy-icon = hidden
+title = " "
+# scrollback-limit = 10_000
+cursor-style = block
+
+background-opacity = 0.9
+background-blur-radius = 20
+
+mouse-hide-while-typing = true
+mouse-scroll-multiplier = 2
+
+#window-padding-balance = true
+
+# keybindings
+keybind = cmd+s>r=reload_config
+keybind = global:ctrl+grave_accent=toggle_quick_terminal
+
+quick-terminal-position = center
+quick-terminal-screen = mouse
+quick-terminal-autohide = true
+
+# macOS specific features
+macos-titlebar-style = transparent
+macos-option-as-alt = true
+window-save-state = always
+window-vsync = true
+window-colorspace = display-p3
+quick-terminal-screen = macos-menu-bar
+
+theme = tokyonight
+
+
